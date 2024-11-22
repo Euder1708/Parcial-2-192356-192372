@@ -1,0 +1,29 @@
+# Gestión de Parqueadero
+
+Este proyecto gestiona el parqueadero de una universidad, permitiendo registrar vehículos, agregar espacios de parqueo, asignar vehículos a espacios disponibles y liberar espacios cuando un vehículo sale.
+
+## Características
+
+- Registro de vehículos (placa, tipo y propietario).
+- Agregar espacios de parqueo (carro o moto).
+- Asignación de vehículos a espacios disponibles.
+- Liberación de espacios ocupados.
+
+## Uso
+
+1. **Agregar espacio**: Añadir un espacio de parqueo.
+2. **Mostrar espacios disponibles**: Ver los espacios libres.
+3. **Asignar vehículo**: Asignar un vehículo a un espacio.
+4. **Liberar espacio**: Liberar un espacio cuando el vehículo salga.
+5. **Salir**: Cerrar el programa.
+
+## Estructura del Proyecto
+
+- `Vehiculo`: Clase que representa los vehículos.
+- `EspacioParqueadero`: Clase que maneja los espacios de parqueo.
+- `GestionParqueadero`: Clase que gestiona los vehículos y espacios.
+- `Main`: Clase principal para ejecutar el sistema.
+
+
+
+192356-192372
